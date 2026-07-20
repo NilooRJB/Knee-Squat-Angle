@@ -1,0 +1,1 @@
+From a prepared video recording in which a test person performs a squat, we will extract the necessary data with the help of Kinovea to generate a planar model of the real-time representation of the joint torque.
